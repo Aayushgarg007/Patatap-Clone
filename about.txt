@@ -1,0 +1,6 @@
+Here we are creating a app which works such that you press a key on keyboard
+each key corresponding to a sound with some cool animations
+
+We are going to use 2 libraries - paper.js and howler.js
+paper used for animations
+howler used for sounds
